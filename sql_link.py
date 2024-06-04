@@ -8,7 +8,7 @@ db_config = {
     'host': 'localhost',
     'port': 3306,
     'user': 'root',
-    'password': '2356789mmm',
+    'password': '123456',
     'database': 'students',
     'charset': 'utf8mb4'
 }
